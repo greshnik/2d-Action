@@ -1,0 +1,11 @@
+FILES: 7
+# SYNTAX:
+# filename of the frame, milliseconds to pause afterwards,
+# the RGB of the transparent part.
+1.bmp       200    180 172 176
+2.bmp       200    180 172 176
+3.bmp       200    180 172 176
+4.bmp       200    180 172 176
+5.bmp       200    180 172 176
+6.bmp       200    180 172 176
+7.bmp       200    180 172 176
